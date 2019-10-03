@@ -1,0 +1,39 @@
+#header{
+    background-color: white;
+    justify-content: center;
+    vertical-align: middle;
+}
+
+#homebutton{
+    color: black;
+}
+
+#search{
+    margin: 0 200px;
+    width: 200px;
+    font-family: Arial, FontAwesome;
+}
+#logo{
+    background-color: white;
+    background-image: url("../insta/image/Instagram-wordmark-logo-720x340.png");
+    height: 35px;
+    width: 120px;
+    background-size: 120px;
+    resize: none !important;
+}
+
+.button{
+    margin: 0 15px ;
+}
+
+#separator{
+    background-color: #262626;
+    height: 32px;
+    margin: 0 16px;
+    width: 1px;
+    vertical-align: baseline;
+}
+
+.gray-background{
+    background-color: rgba(129, 127, 127,0.1);
+}
